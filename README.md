@@ -11,7 +11,7 @@
 - <b>Virtual & Augumented Reality</b>
   - [AI-Controlled RobotSphere in an Uncertain Environment](https://github.com/joshmadakor1/EncrypterPOC)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
