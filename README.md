@@ -7,7 +7,7 @@
 - <b>Machine Learning Algorithms</b>
   - [Inverse Kinematics Solution (6DoF Robot Arm) using Neural Networks](https://github.com/ChristopherOkoh60/inverse_kinematics_solution_using_neural_networks/)
 - <b>AIoT & Robotics</b>
-  - [Optimized Unmanned Ground Robot Communication System Design](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Optimized Unmanned Ground Robot Communication System Design](https://github.com/ChristopherOkoh60/optimized_communication_system_design_for_ugr/)
 - <b>Virtual & Augumented Reality</b>
   - [AI-Controlled RobotSphere in an Uncertain Environment](https://github.com/joshmadakor1/EncrypterPOC)
 
