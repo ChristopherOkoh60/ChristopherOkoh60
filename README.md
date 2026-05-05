@@ -5,7 +5,7 @@
 - <b>Industrial Robotics</b>
   - [Safety-Aware Robot Navigation using Reinforcement Learning](https://github.com/ChristopherOkoh60/safety_aware_robot_navigation/)
 - <b>Machine Learning Algorithms</b>
-  - [Inverse Kinematics Solution (6DoF Robot Arm) using Neural Networks](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Inverse Kinematics Solution (6DoF Robot Arm) using Neural Networks](https://github.com/ChristopherOkoh60/inverse_kinematics_solution_using_neural_networks/)
 - <b>AIoT & Robotics</b>
   - [Optimized Unmanned Ground Robot Communication System Design](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Virtual & Augumented Reality</b>
