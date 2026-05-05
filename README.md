@@ -3,7 +3,7 @@
 <h2>👨‍💻 Robotics & AI Projects:</h2>
 
 - <b>Industrial Robotics</b>
-  - [Safety-Aware Robot Navigation using Reinforcement Learning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Safety-Aware Robot Navigation using Reinforcement Learning](https://github.com/ChristopherOkoh60/safety_aware_robot_navigation/)
 - <b>Machine Learning Algorithms</b>
   - [Inverse Kinematics Solution (6DoF Robot Arm) using Neural Networks](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>AIoT & Robotics</b>
