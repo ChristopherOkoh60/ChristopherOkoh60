@@ -1,6 +1,10 @@
-<h1>Hi, I'm Chris! <br/><a>Robotics</a> <a>and Artificial Intelligence</a> <a>Engineer</a></h1>
+<h1>Hi, I'm Chris!</h1>
 
-<h2>👨‍💻 Robotics & AI Projects:</h2>
+<h3>👨‍💻 About Me<h3>
+<h4>🎓 I just completed my <strong>master's program in Robotics Engineering from Liverpool Hope University, UK</strong> where I worked on <strong>human-centered vision-based navigation.</strong></h4>
+<h4>🚀 I previously interned at <strong>Barcelona Tech</strong> where I worked on navigation control using SLAM and CNN</h4>
+
+<h2>Robotics & AI Projects:</h2>
 
 - <b>Industrial Robotics</b>
   - [Safety-Aware Robot Navigation using Reinforcement Learning](https://github.com/ChristopherOkoh60/safety_aware_robot_navigation/)
