@@ -1,25 +1,23 @@
 <h1>Hi, I'm Chris!</h1>
 
-<h3>👨‍💻 About Me<h3>
-<h4>
+<h3>👨‍💻 About Me</h3>
+
 <ul>
-  <li>🎓 I just completed my MSc. in Robotics Engineering at Liverpool Hope University, UK, where I worked on vision-based navigation.</li>
-  <li>🚀 I previously interned at <strong>Barcelona Tech</strong> where I worked on navigation control using SLAM and CNN.</li>
-  <li>🧠 My interests include AI for robotics, autonomous systems, and embedded systems.</li>
+  <li>🎓 I just completed my <strong>MSc. in Robotics Engineering at Liverpool Hope University, UK,</strong> where I worked on <strong>vision-based navigation.</strong></li>
+  <li>🚀 I previously interned at <strong>Barcelona Tech</strong> where I worked on <strong>navigation control using SLAM and CNN.</strong></li>
+  <li>🧠 My interests include <strong>AI for robotics, autonomous systems,</strong> and <strong>embedded systems.</strong></li>
 </ul>
-</h4>
+
 
 <h1></h1>
 
 <h3>⚙️ Tech I work with</h3>
-<h4>
 <ul>
-  <li>🤖 Robotics: ROS2, URDF, Gazebo, Unity, Robotnik</li>
-  <li>🧠 AI/ML: PyTorch, TensorFlow, OpenCV</li>
-  <li>💾 Embedded: C++, SystemVerilog, STM32, ESP32, Arduino</li>
-  <li>🌐 Tools: Git, VS Code, Linux, Docker, MatLab</li>
+  <li>🤖 <strong>Robotics:</strong> ROS2, URDF, Gazebo, Unity, Robotnik</li>
+  <li>🧠 <strong>AI/ML:</strong> PyTorch, TensorFlow, OpenCV</li>
+  <li>💾 <strong>Embedded:</strong> C++, SystemVerilog, STM32, ESP32, Arduino</li>
+  <li>🌐 <strong>Tools:</strong> Git, VS Code, Linux, Docker, MatLab</li>
 </ul>
-</h4>
 
 
 <h2>Robotics & AI Projects:</h2>
