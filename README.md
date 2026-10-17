@@ -1,8 +1,11 @@
 <h1>Hi, I'm Chris!</h1>
 
 <h3>👨‍💻 About Me<h3>
-<h4>🎓 I just completed my <strong>master's program in Robotics Engineering from Liverpool Hope University, UK</strong> where I worked on <strong>human-centered vision-based navigation.</strong></h4>
-<h4>🚀 I previously interned at <strong>Barcelona Tech</strong> where I worked on navigation control using SLAM and CNN</h4>
+<h4>🎓 I just completed my <strong>master's program in Robotics Engineering at Liverpool Hope University, UK</strong> where I worked on <strong>human-centered vision-based navigation.</strong></h4>
+<h4>🚀 I previously interned at <strong>Barcelona Tech</strong> where I worked on navigation control using SLAM and CNN.</h4>
+<h4>🧠 My interests lie in AI for robotics, autonomous systems and embedded systems.</h4>
+
+<h3>⚙️ Tech I work with</h3>
 
 <h2>Robotics & AI Projects:</h2>
 
