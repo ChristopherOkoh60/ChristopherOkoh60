@@ -20,7 +20,7 @@
 </ul>
 
 
-<h2>Robotics & AI Projects:</h2>
+<h2>Completed Robotics & AI Projects:</h2>
 
 - <b>Industrial Robotics</b>
   - [Safety-Aware Robot Navigation using Reinforcement Learning](https://github.com/ChristopherOkoh60/safety_aware_robot_navigation/)
@@ -33,10 +33,10 @@
 
 
 
-<!--
-**ChristopherOkoh60/ChristopherOkoh60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+<h3>Need to know:</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
