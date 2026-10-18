@@ -29,7 +29,7 @@
 - <b>AIoT & Robotics</b>
   - [Optimized Unmanned Ground Robot Communication System Design](https://github.com/ChristopherOkoh60/optimized_communication_system_design_for_ugr/)
 - <b>Virtual & Augumented Reality</b>
-  - [Unity-Based RobotSphere Navigation in an Unstructured Environment](https://github.com/ChristopherOkoh60/ai_controlled_robotspher_in_an_uncertain_environment/)
+  - [Unity-Based RobotSphere Navigation in an Unstructured Environment](https://github.com/ChristopherOkoh60/unity_based_robotspher_navigation_in_an_unstructured_environment/)
 
 
 
