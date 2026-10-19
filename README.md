@@ -22,6 +22,8 @@
 
 <h2>Completed Robotics & AI Projects:</h2>
 
+ <b>Vision-Based Navigation/b>
+  - [An Adaptive Monocular Vision-Based Human Position Tracking in Dorsal Following Autonomous Wheeled Robot](https://github.com/ChristopherOkoh60/safety_aware_robot_navigation/)
 - <b>Industrial Robotics</b>
   - [Safety-Aware Robot Navigation using Reinforcement Learning](https://github.com/ChristopherOkoh60/safety_aware_robot_navigation/)
 - <b>Machine Learning Algorithms</b>
